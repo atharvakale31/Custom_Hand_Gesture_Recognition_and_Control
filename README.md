@@ -28,7 +28,7 @@
 
 ![power_point](res/power_point.gif)
 
-##Tools and Frameworks used:
+## Tools and Frameworks used:
 - Google MediaPipe Hands
 - Python, OpenCV
 - pyQt5 designer
@@ -43,7 +43,7 @@
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
 
-# Action Items
+## Action Items
 - [ ] Improve Code Readability.
 - [ ] Add support for mouse pointer control.
 - [ ] Dynamic UI to accommodate more Gesture-Key pairs.
