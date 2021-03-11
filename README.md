@@ -19,8 +19,8 @@
 ![Application GUI](res/CGC_gui.PNG)
 
  ## Working Example:
-- Here, 1 (index finger open) is assigned to open key.  
-- 2 (thumb and index finger open) is assigned to down key.  
+- Here, 1 (index finger open) is assigned to up arrow key.  
+- 2 (thumb and index finger open) is assigned to down arrow key.  
 
 ![setting](res/settings.gif)
 
