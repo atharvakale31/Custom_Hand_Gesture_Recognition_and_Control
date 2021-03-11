@@ -13,8 +13,8 @@
  ## Getting Started 
 
 - To run : Custom_Gesture_Control - > test.exe
-- **How to use application**? - [Custom Gesture Control Guide](https://github.com/atharvakale31/Custom_Gesture_Control/blob/master/CGC_Guide.pdf)
-- Desktop Application : [Custom_Gesture_Control.rar](https://drive.google.com/file/d/1nlWgWMKu9f328SUHU_JSBwErqEyR5Bv8/view?usp=sharing)
+- ### **How to use application**? - [Custom Gesture Control Guide](https://github.com/atharvakale31/Custom_Gesture_Control/blob/master/CGC_Guide.pdf)
+- ### Desktop Application : [Custom_Gesture_Control.rar](https://drive.google.com/file/d/1nlWgWMKu9f328SUHU_JSBwErqEyR5Bv8/view?usp=sharing)
 
 ![Application GUI](res/CGC_gui.PNG)
 
