@@ -6,7 +6,7 @@
 ➢ Actions are infact key presses which are triggered programatically when a
    certain gesture is detected.
 
-➢ User has to select a gesture and associate a key press with it.
+➢ User has to select a static/dynamic hand gesture and associate a key press with it.
 
 ➢ Follow the steps given to get started.
 ```
